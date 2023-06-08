@@ -1,5 +1,5 @@
 # US_finance_product_complaints
-Used python , sql , tableau to clean data , generate insights and make visualizations
+Used python , sql , tableau to clean data , generate insights and make visualizations. powerbi - visulizations
 
 1. data cleaning using python
 -- removed unnecessary columns such as tags etc.
@@ -25,3 +25,11 @@ Used python , sql , tableau to clean data , generate insights and make visualiza
 
 here filter is applied to all sheets with respect to year , 
 product , company , type of issue
+
+4. Genrate visulization using power Bi 
+-- Product complaints vertical bar chart distributed across year
+--companies distribution in Us vertical bar chart
+--Distribution of Complaint mode across year stacked bar chart
+--company distribution across US map (map chart)
+--consumer disputed analysis done by smart analysis Power bi (4 - charts of consumer disputed closed with various mode such as monetary benifts , explanantions and just closed with no explanations
+
